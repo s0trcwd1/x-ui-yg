@@ -37,12 +37,10 @@
 
 ### 一键脚本：
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/s0trcwd1/x-ui-yg/refs/heads/main/install.sh)
 ```
-或
-```
-bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
-```
+
+
 -----------------------------------------------------
 ### x-ui-yg脚本菜单界面附加功能全开预览图（注：相关参数随意填写，仅供围观）
 

@@ -36,7 +36,9 @@
 -------------------------------
 
 ### 一键脚本：
-```
+``
+wget https://raw.githubusercontent.com/s0trcwd1/x-ui-yg/refs/heads/main/install.sh
+
 bash <(curl -Ls https://raw.githubusercontent.com/s0trcwd1/x-ui-yg/refs/heads/main/install.sh)
 ```
 
